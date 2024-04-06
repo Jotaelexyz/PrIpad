@@ -1,0 +1,1 @@
+palabras = ['yerba fresca','caca mierder','smithers master']
